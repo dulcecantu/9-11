@@ -1,0 +1,12 @@
+Competencies
+
+Up until now all programs we’ve written have been on the command line, now with the sinatra framework, we can start putting our code onto the web
+Sinatra is a lightweight web framework for Ruby 
+Does not strictly follow the Model View Controller pattern of app development, but you can still implement the separation
+Can start sinatra from scratch, or work off a skeleton. There are many skeletons out there on the web, understand what each file does and decide which one is right for you
+
+
+Applications
+
+Understand sinatra structure
+Build own applications in sinatra
