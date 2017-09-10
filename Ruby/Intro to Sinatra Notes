@@ -4,9 +4,12 @@ Up until now all programs we’ve written have been on the command line, now wit
 Sinatra is a lightweight web framework for Ruby 
 Does not strictly follow the Model View Controller pattern of app development, but you can still implement the separation
 Can start sinatra from scratch, or work off a skeleton. There are many skeletons out there on the web, understand what each file does and decide which one is right for you
+Since Sinatra gets our code onto the Web, we will be coming back to HTML/CSS and incorporating Ruby as well. 
+Ruby is incorporated into HTML through the ERB (Embedded Ruby) extension, and has special syntax
 
 
 Applications
 
 Understand sinatra structure
 Build own applications in sinatra
+Write ERB
