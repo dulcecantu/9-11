@@ -1,0 +1,26 @@
+Clone a repository, any repository, even this one.
+
+Check out a new branch
+>git checkout -b new-branch
+
+Make a small change, any change
+Check status
+>git status
+
+Add change
+>git add .
+
+Check again
+>git status
+
+Commit change
+>git commit -m "[commit message here]"
+
+Push!
+>git push origin new-branch
+
+Additional resources:
+https://medium.com/@igor_marques/git-workflow-basics-d405746f6205
+http://rogerdudler.github.io/git-guide/
+https://gist.github.com/blackfalcon/8428401
+And of course: google!
