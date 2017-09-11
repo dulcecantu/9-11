@@ -1,0 +1,19 @@
+Competencies
+A repository includes all the branches (both feature and master)
+The master branch is your home base
+The master branch is your latest functional product
+You can add new branches to play around with new features without changing the master branch. These are called feature branches.
+In order to new features onto your master branch, you have to merge in the feature branch
+Before you merge a new branch into your master branch you have to commit changes
+Local files are on your own machine
+Global files are off the internet
+When dealing with a global repository, you have to pull and push repositories
+
+Applications
+Set up a GitHub account
+Create/initiate a Git repository
+Add changes to a branch
+Commit changes that were made to a branch
+Merge changes into the master branch
+Pull a repository
+Push a repository back up after changes have been made
