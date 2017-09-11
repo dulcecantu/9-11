@@ -2,6 +2,7 @@
 
 ### Today's Topic
 Git Workflow
+
 Intro to Sinatra
 
 
